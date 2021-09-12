@@ -3,6 +3,9 @@
 	text-decoration: none !important;
 	color: grey;
 }
+.myname{
+color:red;
+}
 .top-nav a:hover {
 	color: goldenrod;
 	transition: 0.1s;
